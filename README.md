@@ -56,9 +56,6 @@
 ## 📑 CP profile links
   
 <p dir="auto">
-     "GeeksForGeeks"
-     <a href="https://auth.geeksforgeeks.org/user/tripurananandini/profile" rel="nofollow">https://auth.geeksforgeeks.org/user/tripurananandini/profile</a>
-     <br>
      "HackerRank"
       <a href="https://www.hackerrank.com/kusu93818" rel="nofollow">https://www.hackerrank.com/kusu93818</a>
       <br>
